@@ -7,6 +7,9 @@
     <a href="https://github.com/STRRL/serverless-github-badges">
         <img src="https://badges.strrl.dev/years/DiamondRoPlayz?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
     </a>
+    <a href="https://github.com/STRRL/serverless-github-badges">
+        <img src="https://badges.strrl.dev/contributions/all/DiamondRoPlayz?style=flat&labelColor=333333&logoColor=E7E7E7&label=Contributions&logo=github" />
+    </a>
 </p>
 
 ```js
