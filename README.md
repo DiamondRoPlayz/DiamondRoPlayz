@@ -1,6 +1,9 @@
 <h1 align="center">Hay There 👋, I'm DiamondRoPlayz</h1>
 
 <p align="center">
+    <a href="https://hits.seeyoufarm.com/">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDiamondRoPlayz&title_bg=%232D2D2D&count_bg=%2300CC69&icon=github.svg&icon_color=%23E7E7E7&title=Views%20%28Day%20%2F%20All%29&edge_flat=false" />
+    </a>
     <a href="https://github.com/STRRL/serverless-github-badges">
         <img src="https://badges.strrl.dev/years/DiamondRoPlayz?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
     </a>
