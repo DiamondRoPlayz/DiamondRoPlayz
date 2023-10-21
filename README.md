@@ -7,7 +7,7 @@
     <a href="https://github.com/DiamondRoPlayz?tab=followers">
         <img src="https://img.shields.io/github/followers/DiamondRoPlayz?labelColor=333333&logoColor=E7E7E7&color=8939FF&label=Followers&logo=github" />
     </a>
-    <a href="#">
+    <a href="https://github.com/DiamondRoPlayz?tab=stars">
         <img src="https://img.shields.io/github/stars/DiamondRoPlayz?affiliations=OWNER%2CCOLLABORATOR&labelColor=333333&logoColor=E7E7E7&color=EEAA00&label=Stars&logo=github" />
     </a>
 </p>
