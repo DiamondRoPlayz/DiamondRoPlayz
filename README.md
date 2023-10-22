@@ -19,8 +19,8 @@ class AboutMe {
         this.pronouns = ["Porsche 911 GT3 RS | Gray Carbon Fibre"];
         this.location = ["London", "UK"];
         this.birthday = new Date(),
-        this.hobbies = ["Coding", "UI Designing", "Reverse Engineering", "Hacking", "Gaming", "Eating"];
-        this.interests = ["Coding", "Reverse Engineering", "Hacking", "KMS"];
+        this.hobbies = ["Coding", "UI Designing", "Reverse Engineering", "Gaming", "Eating"];
+        this.interests = ["Coding", "Reverse Engineering", "KMS"];
     }
 }
 
