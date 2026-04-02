@@ -2,16 +2,13 @@
 
 <p align="center">
     <a href="#">
-<!--         <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDiamondRoPlayz&title_bg=%232D2D2D&count_bg=%2300CC69&icon=github.svg&icon_color=%23E7E7E7&title=Views%20%28Day%20%2F%20All%29&edge_flat=false" /> -->
-<!--         Last views got taken down -->
-<!--         Views start as of April 2025 -->
-        <img src="https://badges.strrl.dev/visits/DiamondRoPlayz/DiamondRoPlayz?style=flat&labelColor=333333&logoColor=E7E7E7&label=Visits&logo=github" />
+        <img src="https://drp.zgit.workers.dev/visits/DiamondRoPlayz/DiamondRoPlayz" />
     </a>
     <a href="#">
-        <img src="https://badges.strrl.dev/years/DiamondRoPlayz?style=flat&labelColor=333333&logoColor=E7E7E7&color=0089FF&label=Years&logo=github" />
+        <img src="https://drp.zgit.workers.dev/years/DiamondRoPlayz" />
     </a>
     <a href="#">
-        <img src="https://badges.strrl.dev/contributions/all/DiamondRoPlayz?style=flat&labelColor=333333&logoColor=E7E7E7&label=Contributions&logo=github" />
+        <img src="https://drp.zgit.workers.dev/contributions/DiamondRoPlayz" />
     </a>
 </p>
 
@@ -21,9 +18,11 @@ class AboutMe {
         this.username = "DiamondRoPlayz";
         this.pronouns = ["Porsche 911 GT3 RS | Gray Carbon Fibre"];
         this.location = ["London", "UK"];
-        this.birthday = new Date(),
+        this.birthday = new Date(), // always ;)
         this.hobbies = ["Coding", "UI Designing", "Reverse Engineering", "Gaming", "Eating"];
         this.interests = ["Coding", "Reverse Engineering", "KMS"];
+        this.genre = ['Jumpstyle', 'Trashwave', 'WitchHouse', 'zaag', 'джампстайл', 'хардстайл', 'hardjump', 'jumpcore', 'witch house', 'witchcore', 'mourncore', 'yabujin', 'ilyhiryu', 'vyrval', 'hardstyle', 'hardcore', 'electronic', 'core', 'darkcore', 'dreamcore', 'dark', 'nostalgia', 'darkambient', 'liminal', 'ambient', 'vhs', 'maycry', 'vapeclub', 'rawstyle', 'uptempo', 'zaagkicks', 'krach', 'rawtempo', 'zaagkick', 'terrorcore', 'jumptekk', 'hardtechno', 'industrial', 'IndustrialHardTechno', 'hardtekk', 'darktriad', 'dark triad'];
+        this.core = ['nyctophilia', 'nostalgia', 'dreamcore', 'webcore', 'Frutiger Aero', 'core', 'night', 'vhs', 'fog', 'emptiness', 'aesthetic', 'liminal', 'dark', 'mood', 'peaceful', 'nature', 'blue hour', 'cats', 'cars', 'forest', 'gloomy', 'relax', 'snow', 'rain', 'memories', 'darkness', 'real', 'vibe', 'abandoned', 'loneliness', 'alone', 'vanished', 'ghost', 'thoughts', 'disappear', 'ambient', 'ambience', 'witch', 'grain', 'static']
     }
 }
 
@@ -35,11 +34,14 @@ const me = new AboutMe();
 Programming Languages 🤖
 ------------
 [![Lua](https://img.shields.io/badge/-Lua-333333?style=for-the-badge&logo=lua&logoColor=white&labelColor=2C39BD)](https://www.lua.org)
-[![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)](https://www.w3schools.com/html)
-[![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3&logoColor=white&labelColor=DD3A0A)](https://www.w3.org/Style/CSS)
+[![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)](https://www.w3.org/html)
+[![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)](https://www.w3.org/Style/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)](https://www.typescriptlang.org)
 [![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white&labelColor=3776FB)](https://www.python.org)
-[![PS1](https://img.shields.io/badge/-PS1-333333?style=for-the-badge&logo=powershell&logoColor=white&labelColor=5391FE)](https://docs.microsoft.com/en-us/powershell)
+[![PS1](https://img.shields.io/badge/-PS1-333333?style=for-the-badge&logo=powershell&logoColor=white&labelColor=5391FE)](https://learn.microsoft.com/powershell)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp)
+[![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C)](https://isocpp.org)
 
 <!--
 **DiamondRoPlayz/DiamondRoPlayz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
