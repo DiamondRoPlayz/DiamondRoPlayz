@@ -2,13 +2,13 @@
 
 <p align="center">
     <a href="#">
-        <img src="https://drp.zgit.workers.dev/visits/DiamondRoPlayz/DiamondRoPlayz" />
+        <img src="https://diamondroplayz.zgit.workers.dev/visits/DiamondRoPlayz"/>
     </a>
     <a href="#">
-        <img src="https://drp.zgit.workers.dev/years/DiamondRoPlayz" />
+        <img src="https://diamondroplayz.zgit.workers.dev/years"/>
     </a>
     <a href="#">
-        <img src="https://drp.zgit.workers.dev/contributions/DiamondRoPlayz" />
+        <img src="https://diamondroplayz.zgit.workers.dev/contributions"/>
     </a>
 </p>
 
